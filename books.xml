@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <id>101</id>
+        <title>Introduction to Python</title>
+        <author>John Smith</author>
+        <price>450</price>
+        <category>Programming</category>
+    </book>
+    <book>
+        <id>102</id>
+        <title>Web Development Basics</title>
+        <author>David Miller</author>
+        <price>550</price>
+        <category>Web Development</category>
+    </book>
+    <book>
+        <id>103</id>
+        <title>Database Management</title>
+        <author>Robert Brown</author>
+        <price>600</price>
+        <category>Database</category>
+    </book>
+    <book>
+        <id>104</id>
+        <title>Artificial Intelligence</title>
+        <author>Sarah Wilson</author>
+        <price>700</price>
+    <category>Artificial Intelligence</category>
+    </book>
+</books>
